@@ -1,2 +1,2 @@
-# nodejs-study
-Node.js 공부하면서 소스 및 내용 정리
+# Node.js study
+'Node.js 교과서' 책으로 공부한 내용 및 소스를 작성합니다
