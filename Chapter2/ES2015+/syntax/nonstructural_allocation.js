@@ -1,7 +1,6 @@
 // 비구조화 할당
 
 //기존의 코드
-
 var candyMachine = {
   status: {
     name: 'node',
@@ -14,7 +13,6 @@ var candyMachine = {
 };
 var getCandy candyMachine.getCandy;
 var count = candyMachine.status.count;
-
 
 //바뀐 코드 (객체와 배열로부터 속성이나 요소를 쉽게 꺼낼 수 있다)
 const candyMachine = {

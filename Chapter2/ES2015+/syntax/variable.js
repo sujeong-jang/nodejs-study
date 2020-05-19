@@ -11,7 +11,7 @@ console.log(x);
 if(true) {
   const y = 3;
 }
-//console.log(y); //에러 발생
+console.log(y); //에러 발생
 
 /*
 let과 const의 차이점
